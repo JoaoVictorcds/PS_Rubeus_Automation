@@ -31,7 +31,7 @@ A automação possui:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/JoaoVictorcds/PS_Rubeus_Automation.git
+git clone https://github.com/JoaoVictorcds/test-automation-portfolio.git
 ```
 
 Instale as dependências:
